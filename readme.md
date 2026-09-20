@@ -232,6 +232,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `opencv`      |    <img src="./icons/OpenCV-Dark.svg" width="48">     |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
+|    `opnsense`      |   <img src="./icons/OPNsense-Dark.svg" width="48">    |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
