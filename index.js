@@ -42,6 +42,7 @@ const shortNames = {
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
   linuxcontainers: 'lxc',
+  sonatype: 'nexus',
 };
 const themedIcons = [
   ...Object.keys(icons)
