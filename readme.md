@@ -204,6 +204,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
+|       `lxc`        |      <img src="./icons/LXC-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
